@@ -68,7 +68,6 @@ namespace RecordDbSQLite
 
             // _rt.GetRecordList();
 
-            // TODO: Do These
             // _rt.GetRecordListMultipleTables();
 
             // _rt.CountDiscs(string.Empty);
